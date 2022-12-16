@@ -84,7 +84,7 @@
 	</build>
 	<properties>
 		<project.build.sourceEncoding>Cp1252</project.build.sourceEncoding>
-		<spring.version>4.3.20.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<jdk.version>11</jdk.version>
 		<struts.version>2.5.20</struts.version>
 		<tomcat-current-version>9.0.16</tomcat-current-version>
